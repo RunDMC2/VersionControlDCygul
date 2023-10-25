@@ -1,3 +1,4 @@
+# Dylan Cygul
 def encode(password):
     pass_to_return = ""
     password = [int(x) for x in str(password)]
