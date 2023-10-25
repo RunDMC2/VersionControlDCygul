@@ -11,6 +11,8 @@ def encode(password):
 
         pass_to_return = f"{pass_to_return}{password[ind]}"
 
+    return pass_to_return
+
 
 
 def decode(password):
